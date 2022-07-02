@@ -1,0 +1,10 @@
+.GS-canvas {
+  height: 50px;
+  width: 500px;
+}
+
+.GS-container {
+  height: 10px;
+  width: 100px;
+  background-color: red;
+}
